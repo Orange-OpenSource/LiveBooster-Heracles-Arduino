@@ -1,0 +1,17 @@
+{
+"name": "LiveBooster-Heracles-Arduino",
+"frameworks": "Arduino",
+"description": "GSM client library for the Heracles modem",
+"url": "https://github.com/Orange-OpenSource/LiveBooster-Heracles-Arduino",
+"authors":
+[
+{
+        "name": "Orange Applications for Business"
+}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/Orange-OpenSource/LiveBooster-Heracles-Arduino"
+}
+}
